@@ -120,6 +120,15 @@ This project demonstrates:
 - Python Application Development
 - Dashboard Design and Analytics
 
+- ## Future Enhancements
+
+- Money Transfer Between Accounts
+- Account Search Functionality
+- Export Transactions to CSV
+- User Authentication
+- Interest Calculation Module
+- Dark Mode UI
+
 ---
 
 ## 👨‍💻 Author
