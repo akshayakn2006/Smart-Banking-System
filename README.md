@@ -2,85 +2,130 @@
 
 A GUI-based Banking Management System developed using Python, Tkinter, MySQL, and Pillow. This application provides essential banking operations such as account management, deposits, withdrawals, balance inquiries, and transaction tracking through an interactive dashboard.
 
+---
+
 ## 🚀 Features
 
-* Create New Accounts
-* Update Existing Accounts
-* Delete Accounts
-* Deposit Money
-* Withdraw Money
-* Check Account Balance
-* Transaction History Tracking
-* Dashboard Analytics
-* MySQL Database Integration
-* User-Friendly Tkinter Interface
+✅ Create New Accounts
+
+✅ Update Existing Accounts
+
+✅ Delete Accounts
+
+✅ Deposit Money
+
+✅ Withdraw Money
+
+✅ Check Account Balance
+
+✅ Transaction History Tracking
+
+✅ Dashboard Analytics
+
+✅ MySQL Database Integration
+
+✅ User-Friendly Tkinter Interface
+
+---
 
 ## 🛠️ Technologies Used
 
-* Python
-* Tkinter
-* MySQL
-* MySQL Connector
-* Pillow (PIL)
+- Python
+- Tkinter
+- MySQL
+- mysql-connector-python
+- Pillow (PIL)
+
+---
 
 ## 📂 Project Structure
 
+```text
 Smart-Banking-System/
-
+│
 ├── main.py
-
 ├── requirements.txt
-
 ├── README.md
-
+│
 ├── database/
-
-│ └── bank_db.sql
-
-├── images/
-
-│ └── logo.png
-
+│   └── bank_db.sql
+│
 └── screenshots/
+    ├── customer.png
+    ├── dashboard.png
+    ├── account.png
+    └── transaction.png
+```
 
-## ⚙️ Database Setup
+---
 
-1. Open MySQL Workbench.
-2. Create a database named `bank_db`.
-3. Execute the SQL script provided in `database/bank_db.sql`.
-4. Update the database credentials in `main.py`.
+## ⚙️ Installation
 
-## ▶️ Installation
+1. Clone the repository
 
-Install required packages:
+```bash
+git clone https://github.com/akshayakn2006/Smart-Banking-System.git
+```
 
+2. Install required packages
+
+```bash
 pip install -r requirements.txt
+```
 
-Run the application:
+3. Create the MySQL database using:
 
+```sql
+bank_db.sql
+```
+
+4. Update database credentials in `main.py`
+
+5. Run the application
+
+```bash
 python main.py
+```
 
-## 📊 Screenshots
+---
 
-Add screenshots of:
+## 📸 Screenshots
 
-* Dashboard
-* Customer Management
-* Account Operations
-* Transaction History
+### Customer Management
 
-inside the `screenshots` folder.
+![Customer](screenshots/customer.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Account Operations
+
+![Account](screenshots/account.png)
+
+### Transaction History
+
+![Transaction](screenshots/transaction.png)
+
+---
 
 ## 🎯 Learning Outcomes
 
 This project demonstrates:
 
-* GUI Development with Tkinter
-* Database Connectivity with MySQL
-* CRUD Operations
-* Transaction Management
-* Python Application Design
+- GUI Development using Tkinter
+- Database Connectivity using MySQL
+- CRUD Operations
+- Transaction Management
+- Python Application Development
+- Dashboard Design and Analytics
+
+---
 
 ## 👨‍💻 Author
 
-Developed as a Python + MySQL Banking Management System project.
+**Akshay K N**
+
+GitHub: https://github.com/akshayakn2006
+
+---
