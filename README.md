@@ -95,10 +95,6 @@ python main.py
 
 ![Customer](screenshots/customer.png)
 
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
 ### Account Operations
 
 ![Account](screenshots/account.png)
@@ -106,6 +102,10 @@ python main.py
 ### Transaction History
 
 ![Transaction](screenshots/transaction.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
